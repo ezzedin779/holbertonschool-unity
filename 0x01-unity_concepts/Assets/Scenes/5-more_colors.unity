@@ -447,7 +447,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6193740835041506599, guid: 49373f2186e3f454b9d82c5ea9e1f63f, type: 3}
       propertyPath: m_Name
-      value: ball-green
+      value: Green Ball
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 49373f2186e3f454b9d82c5ea9e1f63f, type: 3}
